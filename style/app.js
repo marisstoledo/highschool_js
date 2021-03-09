@@ -15,3 +15,12 @@ console.log('sum of 6 + 4', sum);
 console.log('10 / 5 is:', divide);
 }
 partTwo('this will be logged')
+
+ 
+
+function range(start, end) {
+    if(start === end) return [start];
+    [start, ...range(start + 1, end)].
+}
+  console.log(1, 2, 3, 4, 5, 6 )
+ 
