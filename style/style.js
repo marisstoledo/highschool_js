@@ -24,3 +24,18 @@ console.log(myString ++ +myAddOn);
 //How do you call a varible?
 //var myVar =...;
 
+
+let food_item = ['pizza', 'bagel', 'cheese', 'strawberry', 'chips', 'burrito', 'eggs', 'salad', 'pasta', 'chicken']
+
+console.log(item[1]);
+console.log(item[10]);
+console.log(item[1], item[10]);
+
+
+let numbers = ['1', '2', '3', '4', '5']
+
+console.log('number[3] plus number[2]', number[3]+ number[2]);
+console.log('number[1] multiply by number[2], multiply by number[5]', number[1]* number[2]* number[5]);
+
+
+
